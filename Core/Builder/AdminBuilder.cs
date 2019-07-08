@@ -9,7 +9,7 @@ namespace Core.Builder
 
         protected override void SetCallRight()
         {
-            User.CanMakeOutgoinCalls = true;
+            User.CanMakeOutgoingCalls = true;
         }
     }
 }
